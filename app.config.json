@@ -3,13 +3,15 @@
   "inputs": [
     {
       "input_type": "text",
-      "id": "text"
+      "id": "text",
+      "label": "What's on your mind?"
     }
   ],
   "outputs": [
     {
       "output_type": "text",
-      "id": "output"
+      "id": "output",
+      "label": "Generated Text"
     }
   ]
 }
